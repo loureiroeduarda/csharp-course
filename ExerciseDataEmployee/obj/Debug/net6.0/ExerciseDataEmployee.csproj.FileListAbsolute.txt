@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\bin\Debug\net6.0\ExerciseDataEmployee.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\bin\Debug\net6.0\ExerciseDataEmployee.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\bin\Debug\net6.0\ExerciseDataEmployee.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\bin\Debug\net6.0\ExerciseDataEmployee.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\bin\Debug\net6.0\ExerciseDataEmployee.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\refint\ExerciseDataEmployee.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ExerciseDataEmployee.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseDataEmployee\obj\Debug\net6.0\ref\ExerciseDataEmployee.dll

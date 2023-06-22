@@ -10,14 +10,14 @@
 
             Employee employee = new Employee();
 
-            Console.WriteLine("Entre com o nome do funcionário: ");
+            Console.Write("Entre com o nome do funcionário: ");
             employee.Name = Console.ReadLine();
-            Console.WriteLine("Entre com o salário bruto: ");
+            Console.Write("Entre com o salário bruto: ");
             employee.GrossSalary = double.Parse(Console.ReadLine());
-            Console.WriteLine("Entre com o valor do imposto: ");
+            Console.Write("Entre com o valor do imposto: ");
             employee.Tax = double.Parse(Console.ReadLine());
 
-            
+            Console.WriteLine(employee);
 
         }
     }

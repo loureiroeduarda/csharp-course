@@ -1,3 +1,5 @@
+using System.Globalization;
+
 namespace ExerciseDataEmployee
 {
     public class Employee
@@ -11,6 +13,9 @@ namespace ExerciseDataEmployee
             return GrossSalary - Tax;
         }
 
-        
+        override public string ToString()
+        {
+            return "Funcionário: " + Name + ", R$ " + NetSalary().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

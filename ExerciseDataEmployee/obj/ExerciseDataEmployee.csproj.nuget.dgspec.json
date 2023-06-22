@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj": {}
+    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj": {
+    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj",
+        "projectUniqueName": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj",
         "projectName": "ExerciseDataEmployee",
-        "projectPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj",
+        "projectPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\ExerciseDataEmployee.csproj",
         "packagesPath": "C:\\Users\\eduarda.loureiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\obj\\",
+        "outputPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseDataEmployee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduarda.loureiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
