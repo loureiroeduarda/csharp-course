@@ -15,16 +15,12 @@ namespace ExerciseDataEmployee
 
         public void IncreaseSalary(double percentage)
         {
-            double convertPercentage = percentage / 100;
-            double IncreaseValue = GrossSalary * convertPercentage;
-            double SalaryWithIncrease = GrossSalary - Tax + IncreaseValue;
-            Console.WriteLine();
-            Console.Write("Dados atualizados: " + Name + ", R$ " + SalaryWithIncrease);
+            GrossSalary += GrossSalary * (percentage / 100.00);
         }
 
         override public string ToString()
         {
-            return "Funcionário: " + Name + ", R$ " + NetSalary().ToString("F2", CultureInfo.InvariantCulture) + "\n";
+            return Name + ", R$ " + NetSalary().ToString("F2", CultureInfo.InvariantCulture) + "\n";
         }
     }
 }
