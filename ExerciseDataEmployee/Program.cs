@@ -16,9 +16,12 @@
             employee.GrossSalary = double.Parse(Console.ReadLine());
             Console.Write("Entre com o valor do imposto: ");
             employee.Tax = double.Parse(Console.ReadLine());
-
+            Console.WriteLine();
             Console.WriteLine(employee);
 
+            Console.Write("Digite a porcentagem para aumentar o salário: ");
+            double percentage = double.Parse(Console.ReadLine());
+            employee.IncreaseSalary(percentage);
         }
     }
 }
