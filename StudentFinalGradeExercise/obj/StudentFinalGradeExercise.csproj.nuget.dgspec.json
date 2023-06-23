@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj": {}
+    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj": {
+    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj",
+        "projectUniqueName": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj",
         "projectName": "StudentFinalGradeExercise",
-        "projectPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj",
+        "projectPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\StudentFinalGradeExercise.csproj",
         "packagesPath": "C:\\Users\\eduarda.loureiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\obj\\",
+        "outputPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\StudentFinalGradeExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduarda.loureiro\\AppData\\Roaming\\NuGet\\NuGet.Config"

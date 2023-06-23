@@ -1,4 +1,6 @@
-﻿namespace StudentFinalGradeExercise
+﻿using System.Globalization;
+
+namespace StudentFinalGradeExercise
 {
     class Program
     {
@@ -15,11 +17,11 @@
             Console.Write("Digite o nome do aluno: ");
             student.Name = Console.ReadLine();
             Console.WriteLine("Digite as três notas do aluno:");
-            student.Grade = double.Parse(Console.ReadLine());
-            student.Grade = double.Parse(Console.ReadLine());
-            student.Grade = double.Parse(Console.ReadLine());
-
-            
+            student.Grade1 = double.Parse(Console.ReadLine());
+            student.Grade2 = double.Parse(Console.ReadLine());
+            student.Grade3 = double.Parse(Console.ReadLine());
+                      
+            Student.PrintStudentStatus(student.CalculateFinalGrade());
         }
     }
 }

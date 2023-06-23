@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\bin\Debug\net6.0\StudentFinalGradeExercise.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\bin\Debug\net6.0\StudentFinalGradeExercise.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\bin\Debug\net6.0\StudentFinalGradeExercise.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\bin\Debug\net6.0\StudentFinalGradeExercise.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\bin\Debug\net6.0\StudentFinalGradeExercise.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\refint\StudentFinalGradeExercise.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\StudentFinalGradeExercise.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\StudentFinalGradeExercise\obj\Debug\net6.0\ref\StudentFinalGradeExercise.dll
