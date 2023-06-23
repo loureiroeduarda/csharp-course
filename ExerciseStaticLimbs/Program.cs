@@ -14,6 +14,12 @@ namespace ExerciseStaticLimbs
             double DollarExchangeRate = double.Parse(Console.ReadLine());
             Console.Write("Quantos dólares você vai comprar? ");
             double DollarAmount = double.Parse(Console.ReadLine());
+
+            double tax = CurrencyConverter.CalculateTax(DollarExchangeRate, DollarAmount);
+            Console.WriteLine("O valor do imposto a ser pago é: R$ " + tax.ToString("F2"), CultureInfo.InvariantCulture);
+
+            double realValue = CurrencyConverter.CalculateTotalPaidReal(DollarExchangeRate, DollarAmount);
+            Console.WriteLine("O valor total a ser pago em reais é: R$ " + realValue.ToString("F2"), CultureInfo.InvariantCulture);
         }
     }
 }
