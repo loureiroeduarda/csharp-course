@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\bin\Debug\net6.0\ExerciseStaticLimbs.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\bin\Debug\net6.0\ExerciseStaticLimbs.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\bin\Debug\net6.0\ExerciseStaticLimbs.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\bin\Debug\net6.0\ExerciseStaticLimbs.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\bin\Debug\net6.0\ExerciseStaticLimbs.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\refint\ExerciseStaticLimbs.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ExerciseStaticLimbs.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseStaticLimbs\obj\Debug\net6.0\ref\ExerciseStaticLimbs.dll

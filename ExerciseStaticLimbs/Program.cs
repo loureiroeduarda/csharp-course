@@ -1,4 +1,6 @@
-﻿namespace ExerciseStaticLimbs
+﻿using System.Globalization;
+
+namespace ExerciseStaticLimbs
 {
     class Program
     {
@@ -8,11 +10,10 @@
             Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessoa terá que pagar 6% de IOF sobre
             o valor em dólar. Criar uma classe ConversorDeMoeda para ser responsável pelos cálculos.*/
 
-            Console.Write("Qual é a cotação do dólar? ");        
+            Console.Write("Qual é a cotação do dólar? ");
             double DollarExchangeRate = double.Parse(Console.ReadLine());
             Console.Write("Quantos dólares você vai comprar? ");
             double DollarAmount = double.Parse(Console.ReadLine());
-
         }
     }
 }
