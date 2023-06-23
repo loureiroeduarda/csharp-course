@@ -10,6 +10,16 @@
             aluno obter o mínimo para ser aprovado (que é 60 pontos). Você deve criar uma classe Aluno para resolver este
             problema.*/
             
+            Student student = new Student();
+
+            Console.Write("Digite o nome do aluno: ");
+            student.Name = Console.ReadLine();
+            Console.WriteLine("Digite as três notas do aluno:");
+            student.Grade = double.Parse(Console.ReadLine());
+            student.Grade = double.Parse(Console.ReadLine());
+            student.Grade = double.Parse(Console.ReadLine());
+
+            
         }
     }
 }
