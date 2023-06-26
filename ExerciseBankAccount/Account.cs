@@ -44,7 +44,7 @@ namespace ExerciseBankAccount
         {
             Console.Write("\n" + "Entre com um valor para saque: ");
             double withdraw = double.Parse(Console.ReadLine());
-            _balance -= withdraw;
+            _balance -= withdraw + 5.00;
             Console.WriteLine();
             Console.Write("Dados atualizados da conta: \n" + ToString());
         }
