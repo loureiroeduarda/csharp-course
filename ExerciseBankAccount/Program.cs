@@ -28,10 +28,9 @@ namespace ExerciseBankAccount
 
             Account account = new Account(accountNumber, name);
 
-            account.FirstDeposit(chooseDeposit);
+            account.FirstDeposit(chooseDeposit, accountNumber, name);
             account.DepositValue();
             account.WithdrawValue();
-
         }
     }
 }

@@ -14,12 +14,18 @@ namespace ExerciseBankAccount
             Name = name;
         }
 
-        public void FirstDeposit(string chooseDeposit)
+        public Account (int accountNumber, string name, double balance) : this(accountNumber, name)
+        {
+            _balance = balance;
+        }
+
+        public void FirstDeposit(string chooseDeposit, int accountNumber, string name)
         {
             if (chooseDeposit.Equals("S", StringComparison.OrdinalIgnoreCase))
             {
                 Console.Write("Entre com o valor de depósito inicial: ");
                 _balance = double.Parse(Console.ReadLine());
+                Account account = new Account(accountNumber, name, _balance);
                 Console.WriteLine();
                 Console.WriteLine("Dados da conta: \n" + ToString());
 
