@@ -1,4 +1,6 @@
-﻿namespace ExerciseBankAccount
+﻿using System.Runtime.ExceptionServices;
+
+namespace ExerciseBankAccount
 {
     class Program
     {
@@ -17,8 +19,18 @@
 
             Console.WriteLine("=== BEM VINDO AO CADASTRO DE CONTA BANCÁRIA ===");
             Console.Write("Entre com o número da conta: ");
+            int accountNumber = int.Parse(Console.ReadLine());
             Console.Write("Entre com o titular da conta: ");
-            Console.WriteLine("Você deseja realizar depósito inicial? Para SIM digite S e para Não digite N (S/N).");
+            string name = Console.ReadLine();         
+            Console.Write("Você deseja realizar depósito inicial? Para SIM digite S e para Não digite N (S/N): ");
+            string chooseDeposit = Console.ReadLine();
+
+            Account account = new Account(accountNumber, name);
+
+            account.FirstDeposit(chooseDeposit);
+
+            
+
 
         }
     }

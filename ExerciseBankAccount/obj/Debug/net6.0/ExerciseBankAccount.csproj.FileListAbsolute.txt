@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\bin\Debug\net6.0\ExerciseBankAccount.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\bin\Debug\net6.0\ExerciseBankAccount.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\bin\Debug\net6.0\ExerciseBankAccount.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\bin\Debug\net6.0\ExerciseBankAccount.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\bin\Debug\net6.0\ExerciseBankAccount.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\refint\ExerciseBankAccount.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ExerciseBankAccount.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseBankAccount\obj\Debug\net6.0\ref\ExerciseBankAccount.dll
