@@ -4,14 +4,14 @@ namespace ExerciseBankAccount
 {
     public class Account
     {
-        private int _accountNumber { get; }
-        private string _name { get; set; }
-        private double _balance = 0;
+        private int _accountNumber { get; set; }
+        public string Name { get; set; }
+        private double _balance { get; set; }
 
         public Account(int accountNumber, string name)
         {
             _accountNumber = accountNumber;
-            _name = name;
+            Name = name;
         }
 
         public void FirstDeposit(string chooseDeposit)
@@ -33,16 +33,25 @@ namespace ExerciseBankAccount
 
         public void DepositValue()
         {
-            Console.Write("\n" + "\n Entre com um valor para depósito: ");
+            Console.Write("\n" + "Entre com um valor para depósito: ");
             double deposit = double.Parse(Console.ReadLine());
             _balance += deposit;
+            Console.WriteLine();
+            Console.Write("Dados atualizados da conta: \n" + ToString() + "\n");
+        }
+
+        public void WithdrawValue()
+        {
+            Console.Write("\n" + "Entre com um valor para saque: ");
+            double withdraw = double.Parse(Console.ReadLine());
+            _balance -= withdraw;
             Console.WriteLine();
             Console.Write("Dados atualizados da conta: \n" + ToString());
         }
 
         override public string ToString()
         {
-            return "Conta nº.: " + _accountNumber + ", Titular: " + _name + ", Saldo: R$ " + _balance.ToString("F2", CultureInfo.InvariantCulture);
+            return "Conta nº.: " + _accountNumber + ", Titular: " + Name + ", Saldo: R$ " + _balance.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

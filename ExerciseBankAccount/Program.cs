@@ -18,6 +18,7 @@ namespace ExerciseBankAccount
             realizar um depósito e depois um saque, sempre mostrando os dados da conta após cada operação.*/
 
             Console.WriteLine("=== BEM VINDO AO CADASTRO DE CONTA BANCÁRIA ===");
+            Console.WriteLine();
             Console.Write("Entre com o número da conta: ");
             int accountNumber = int.Parse(Console.ReadLine());
             Console.Write("Entre com o titular da conta: ");
@@ -29,8 +30,7 @@ namespace ExerciseBankAccount
 
             account.FirstDeposit(chooseDeposit);
             account.DepositValue();
-            
-
+            account.WithdrawValue();
 
         }
     }
