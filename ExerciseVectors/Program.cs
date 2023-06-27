@@ -11,10 +11,37 @@
             estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha que seja escolhido um quarto vago. Ao final, seu programa deve imprimir
             um relatório de todas ocupações do pensionato, por ordem de quarto.*/
 
-            Console.Write("Quantos quartos serão alugados? ");
-            int quantityRooms = int.Parse(Console.ReadLine());
+            Student[] student = new Student[10];
 
-            
+            Console.Write("Quantos quartos serão alugados? ");
+            int quantityRoom = int.Parse(Console.ReadLine());
+            Console.WriteLine();
+
+            for (int i = 1; i <= quantityRoom; i++)
+            {
+                Console.WriteLine($"Aluguel #{i}: ");
+                Console.Write("Nome: ");
+                string name = Console.ReadLine();
+                Console.Write("Email: ");
+                string email = Console.ReadLine();
+                Console.Write("Quarto: ");
+                int room = int.Parse(Console.ReadLine());
+                Console.WriteLine();
+
+                student[room] = new Student { Name = name, Email = email, Room = room };
+
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Quartos ocupados: ");
+
+            for (int i = 0; i < student.Length; i++)
+            {
+                if (student[i] != null)
+                {
+                    Console.WriteLine(student[i].ToString());
+                }
+            }
         }
     }
 }

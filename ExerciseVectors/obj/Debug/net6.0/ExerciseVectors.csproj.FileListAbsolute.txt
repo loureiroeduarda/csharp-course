@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\bin\Debug\net6.0\ExerciseVectors.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\bin\Debug\net6.0\ExerciseVectors.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\bin\Debug\net6.0\ExerciseVectors.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\bin\Debug\net6.0\ExerciseVectors.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\bin\Debug\net6.0\ExerciseVectors.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\refint\ExerciseVectors.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ExerciseVectors.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseVectors\obj\Debug\net6.0\ref\ExerciseVectors.dll
