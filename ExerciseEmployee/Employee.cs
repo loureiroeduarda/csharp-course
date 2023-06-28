@@ -4,14 +4,14 @@ namespace ExerciseEmployee
 {
     public class Employee
     {
-        public string Name { get; set; }
         public int Id { get; private set; }
+        public string Name { get; set; }
         public double Salary { get; private set; }
 
-        public Employee(string name, int id, double salary)
+        public Employee(int id, string name, double salary)
         {
-            Name = name;
             Id = id;
+            Name = name;
             Salary = salary;
         }
 

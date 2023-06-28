@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\bin\Debug\net6.0\ExerciseEmployee.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\bin\Debug\net6.0\ExerciseEmployee.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\bin\Debug\net6.0\ExerciseEmployee.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\bin\Debug\net6.0\ExerciseEmployee.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\bin\Debug\net6.0\ExerciseEmployee.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\refint\ExerciseEmployee.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ExerciseEmployee.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseEmployee\obj\Debug\net6.0\ref\ExerciseEmployee.dll
