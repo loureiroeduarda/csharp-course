@@ -18,21 +18,33 @@ namespace ExerciseEmployee
             int quantityEmployee = int.Parse(Console.ReadLine());
             Console.WriteLine();
 
-            for (int i = 1; i <= quantityEmployee; i++)
+            for (int i = 0; i < quantityEmployee; i++)
             {
-                Console.WriteLine($"Employee #{i}: ");
+                Console.WriteLine($"Employee #{i + 1}: ");
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
-                id = Employee.validateRegistrationTd(id);
-                Console.Write("Name: ");
-                string name = Console.ReadLine();
-                Console.Write("Salary: ");
-                double salary = double.Parse(Console.ReadLine());
-                Console.WriteLine();
-
-                Employee employee = new Employee(id, name, salary);
-                employeeList.Add(employee);
+                id = Employee.ValidateRegistrationId(id);
+                Employee employee = new Employee(id);
+                if (!employee.EmployeeAlreadyRegistered(employeeList))
+                {
+                    Console.Write("Name: ");
+                    string name = Console.ReadLine();
+                    Console.Write("Salary: ");
+                    double salary = double.Parse(Console.ReadLine());
+                    Console.WriteLine();
+                    employee = new Employee(id, name, salary);
+                    employeeList.Add(employee);
+                }
+                else
+                {
+                    Console.WriteLine("Id already registered!!");
+                }
             }
+
+            // Console.WriteLine();
+            // Console.Write("Enter the employee id that will have salary increase: ");
+            // int registeredId = int.Parse(Console.ReadLine());
+
         }
     }
 
