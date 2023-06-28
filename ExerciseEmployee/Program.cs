@@ -24,27 +24,37 @@ namespace ExerciseEmployee
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
                 id = Employee.ValidateRegistrationId(id);
-                Employee employee = new Employee(id);
-                if (!employee.EmployeeAlreadyRegistered(employeeList))
-                {
-                    Console.Write("Name: ");
-                    string name = Console.ReadLine();
-                    Console.Write("Salary: ");
-                    double salary = double.Parse(Console.ReadLine());
-                    Console.WriteLine();
-                    employee = new Employee(id, name, salary);
-                    employeeList.Add(employee);
-                }
-                else
+                while (Program.EmployeeAlreadyRegistered(id, employeeList))
                 {
                     Console.WriteLine("Id already registered!!");
+                    id = int.Parse(Console.ReadLine());
+                    id = Employee.ValidateRegistrationId(id);
                 }
-            }
+                Console.Write("Name: ");
+                string name = Console.ReadLine();
+                Console.Write("Salary: ");
+                double salary = double.Parse(Console.ReadLine());
+                Console.WriteLine();
+                Employee employee = new Employee(id, name, salary);
+                employeeList.Add(employee);
+            }           
 
             // Console.WriteLine();
             // Console.Write("Enter the employee id that will have salary increase: ");
             // int registeredId = int.Parse(Console.ReadLine());
 
+        }
+
+        public static bool EmployeeAlreadyRegistered(int id, List<Employee> employeeList)
+        {
+            foreach (Employee employeeRegistered in employeeList)
+            {
+                if (employeeRegistered.Id == id)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 
