@@ -23,6 +23,7 @@ namespace ExerciseEmployee
                 Console.WriteLine($"Employee #{i}: ");
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
+                id = Employee.validateRegistrationTd(id);
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
                 Console.Write("Salary: ");

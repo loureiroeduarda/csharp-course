@@ -15,6 +15,16 @@ namespace ExerciseEmployee
             Salary = salary;
         }
 
+        public static int validateRegistrationTd(int id)
+        {
+            while (id < 100 || id > 999)
+            {
+                Console.WriteLine("Opção inválida! Tente novamente!!");
+                id = int.Parse(Console.ReadLine());
+            }
+            return id;
+        }
+
         override public string ToString()
         {
             return Id + ", " + Name + ", R$ " + Salary.ToString("F2", CultureInfo.InvariantCulture);
