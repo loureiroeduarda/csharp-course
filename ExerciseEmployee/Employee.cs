@@ -6,7 +6,7 @@ namespace ExerciseEmployee
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public double Salary { get; set; }
+        public double Salary { get; private set; }
 
         public Employee(int id, string name, double salary)
         {
@@ -17,7 +17,7 @@ namespace ExerciseEmployee
 
         public double IncreaseSalary(double percentage)
         {
-            return Salary += Salary * (percentage / 100);
+            return Salary += Salary * (percentage / 100.0);
         }
         override public string ToString()
         {
