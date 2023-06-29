@@ -23,12 +23,12 @@ namespace ExerciseEmployee
                 Console.WriteLine($"Employee #{i + 1}: ");
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
-                id = Employee.ValidateRegistrationId(id);
+                id = Program.ValidateRegistrationId(id);
                 while (Program.EmployeeAlreadyRegistered(id, employeeList))
                 {
                     Console.WriteLine("Id already registered!!");
                     id = int.Parse(Console.ReadLine());
-                    id = Employee.ValidateRegistrationId(id);
+                    id = Program.ValidateRegistrationId(id);
                 }
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
@@ -37,12 +37,31 @@ namespace ExerciseEmployee
                 Console.WriteLine();
                 Employee employee = new Employee(id, name, salary);
                 employeeList.Add(employee);
-            }           
+            }
 
-            // Console.WriteLine();
-            // Console.Write("Enter the employee id that will have salary increase: ");
-            // int registeredId = int.Parse(Console.ReadLine());
+            Console.Write("Enter the employee id that will have salary increase: ");
+            int registeredId = int.Parse(Console.ReadLine());
+            foreach (Employee registeredEmployee in employeeList)
+            {
+                if (registeredEmployee.Id == registeredId)
+                {
+                    Console.Write("Enter the percentagem");
+                    double percentage = double.Parse(Console.ReadLine());
+                    registeredEmployee.IncreaseSalary(percentage);
+                }
+            }
+            Console.Write("This id does not exist!!");
 
+        }
+
+        public static int ValidateRegistrationId(int id)
+        {
+            while (id < 100 || id > 999)
+            {
+                Console.WriteLine("Invalid option! Try again!!");
+                id = int.Parse(Console.ReadLine());
+            }
+            return id;
         }
 
         public static bool EmployeeAlreadyRegistered(int id, List<Employee> employeeList)
@@ -57,5 +76,4 @@ namespace ExerciseEmployee
             return false;
         }
     }
-
 }
