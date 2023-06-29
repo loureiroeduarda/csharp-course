@@ -23,12 +23,12 @@ namespace ExerciseEmployee
                 Console.WriteLine($"Employee #{i + 1}: ");
                 Console.Write("Id: ");
                 int id = int.Parse(Console.ReadLine());
-                id = Program.ValidateRegistrationId(id);
-                while (Program.EmployeeAlreadyRegistered(id, employeeList))
+                id = ValidateRegistrationId(id);
+                while (EmployeeAlreadyRegistered(id, employeeList))
                 {
                     Console.WriteLine("Id already registered!!");
                     id = int.Parse(Console.ReadLine());
-                    id = Program.ValidateRegistrationId(id);
+                    id = ValidateRegistrationId(id);
                 }
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
@@ -45,12 +45,25 @@ namespace ExerciseEmployee
             {
                 if (registeredEmployee.Id == registeredId)
                 {
-                    Console.Write("Enter the percentagem");
+                    Console.Write("Enter the percentagem: ");
                     double percentage = double.Parse(Console.ReadLine());
                     registeredEmployee.IncreaseSalary(percentage);
                 }
             }
-            Console.Write("This id does not exist!!");
+
+            if (!EmployeeAlreadyRegistered(registeredId, employeeList))
+            {
+                Console.Write("This id does not exist!!");
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Update list of employees:");
+
+            foreach (Employee employee in employeeList)
+            {
+                Console.WriteLine(employee.ToString());
+            }
 
         }
 
