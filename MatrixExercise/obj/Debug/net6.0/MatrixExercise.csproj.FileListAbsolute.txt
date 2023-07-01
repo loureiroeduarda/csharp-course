@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\bin\Debug\net6.0\MatrixExercise.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\bin\Debug\net6.0\MatrixExercise.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\bin\Debug\net6.0\MatrixExercise.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\bin\Debug\net6.0\MatrixExercise.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\bin\Debug\net6.0\MatrixExercise.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\refint\MatrixExercise.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\MatrixExercise.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\MatrixExercise\obj\Debug\net6.0\ref\MatrixExercise.dll
