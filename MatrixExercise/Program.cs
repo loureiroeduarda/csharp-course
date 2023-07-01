@@ -37,7 +37,15 @@
                 {
                     if (matrix[i, j] == numberMatrix)
                     {
-                        Console.Write($"Position of number {numberMatrix} is [{i},{j}]");
+                        Console.Write($"Position of number {numberMatrix} is [{i},{j}]" + "\n");
+                        int numberLeft = matrix[i, j - 1];
+                        Console.Write($"Number to the left is {numberLeft}" + "\n");
+                        int numberRight = matrix[i, j + 1];
+                        Console.Write($"Number to the right is {numberRight}" + "\n");
+                        int numberDown = matrix[i + 1, j];
+                        Console.Write($"Number to the up is {numberDown}" + "\n");
+                        int numberUp = matrix[i - 1, j];
+                        Console.Write($"Number to the down is {numberUp}" + "\n");
                         Console.WriteLine();
                     }
                 }
