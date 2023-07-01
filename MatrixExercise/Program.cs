@@ -12,6 +12,7 @@
             int numberLines = int.Parse(Console.ReadLine());
             Console.Write("Entre com o números de colunas da matriz: ");
             int numberColumns = int.Parse(Console.ReadLine());
+            Console.WriteLine();
 
             int[,] matrix = new int[numberLines, numberColumns];
 
@@ -23,6 +24,22 @@
                 for (int j = 0; j < numberColumns; j++)
                 {
                     matrix[i, j] = int.Parse(lineValue[j]);
+                }
+            }
+
+            Console.WriteLine();
+            Console.Write("Digite um número que pertence à matriz: ");
+            int numberMatrix = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < numberLines; i++)
+            {
+                for (int j = 0; j < numberColumns; j++)
+                {
+                    if (matrix[i, j] == numberMatrix)
+                    {
+                        Console.Write($"Position of number {numberMatrix} is [{i},{j}]");
+                        Console.WriteLine();
+                    }
                 }
             }
         }
