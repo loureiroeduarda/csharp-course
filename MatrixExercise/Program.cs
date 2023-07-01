@@ -8,9 +8,9 @@
             contendo números inteiros, podendo haver repetições. Em seguida, ler um número inteiro X que pertence à matriz.
             Para cada ocorrência de X, mostrar os valores à esquerda, acima, à direita e abaixo de X, quando houver.*/
 
-            Console.Write("Entre com o números de linhas da matriz: ");
+            Console.Write("Enter the number of rows in the matrix: ");
             int numberLines = int.Parse(Console.ReadLine());
-            Console.Write("Entre com o números de colunas da matriz: ");
+            Console.Write("Enter the number of columns in the matrix: ");
             int numberColumns = int.Parse(Console.ReadLine());
             Console.WriteLine();
 
@@ -18,7 +18,7 @@
 
             for (int i = 0; i < numberLines; i++)
             {
-                Console.Write($"Entre com os números da linha {i + 1}: ");
+                Console.Write($"Enter the numbers that formed the matrix {i + 1}: ");
                 string[] lineValue = Console.ReadLine().Split(' ');
 
                 for (int j = 0; j < numberColumns; j++)
@@ -28,7 +28,7 @@
             }
 
             Console.WriteLine();
-            Console.Write("Digite um número que pertence à matriz: ");
+            Console.Write("Enter a number that belongs to the matrix: ");
             int numberMatrix = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < numberLines; i++)
