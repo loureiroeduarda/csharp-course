@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\bin\Debug\net6.0\ExerciseOrders.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\bin\Debug\net6.0\ExerciseOrders.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\bin\Debug\net6.0\ExerciseOrders.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\bin\Debug\net6.0\ExerciseOrders.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\bin\Debug\net6.0\ExerciseOrders.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\refint\ExerciseOrders.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ExerciseOrders.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\obj\Debug\net6.0\ref\ExerciseOrders.dll

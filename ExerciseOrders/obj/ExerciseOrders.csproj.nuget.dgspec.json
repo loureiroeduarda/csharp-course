@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj": {}
+    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj": {
+    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj",
+        "projectUniqueName": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj",
         "projectName": "ExerciseOrders",
-        "projectPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj",
+        "projectPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\ExerciseOrders.csproj",
         "packagesPath": "C:\\Users\\eduarda.loureiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\obj\\",
+        "outputPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseOrders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduarda.loureiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
