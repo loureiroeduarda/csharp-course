@@ -4,7 +4,7 @@ namespace ExerciseOrders.Entities
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
-        public List<Product> product { get; set; } = new List<Product>();
+        public List<Product> Product { get; set; } = new List<Product>();
 
         public OrderItem()
         {
@@ -16,9 +16,9 @@ namespace ExerciseOrders.Entities
             Price = price;
         }
 
-        public double Subtotal(double quantity, double price)
+        public double Subtotal()
         {
-            return price * quantity;
+            return Price * Quantity;
         }
     }
 }
