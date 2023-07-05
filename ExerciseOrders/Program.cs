@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System.Data;
+using System.Globalization;
 using ExerciseOrders.Entities;
 using ExerciseOrders.Entities.Enums;
 
@@ -38,11 +39,12 @@ namespace ExerciseOrders
                 double productPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Console.Write("Quantity: ");
                 int quantityProduct = int.Parse(Console.ReadLine());
-
+                
+                Order order = new Order(DateTime.Now, status, client);
                 Product product = new Product(productName, productPrice);
-                OrderItem orderItem = new OrderItem(quantityProduct, productPrice);
+                OrderItem orderItem = new OrderItem(quantityProduct, productPrice, product);
+                order.AddItem(orderItem);
             }
-
         }
     }
 
