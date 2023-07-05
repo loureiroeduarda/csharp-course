@@ -6,6 +6,7 @@ namespace ExerciseOrders.Entities
     {
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
+        public List<OrderItem> items { get; set; } = new List<OrderItem>();
 
         public Order()
         {
