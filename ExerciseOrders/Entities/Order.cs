@@ -45,9 +45,26 @@ namespace ExerciseOrders.Entities
         override public string ToString()
         {
             StringBuilder stringBuilderOrder = new StringBuilder();
-            stringBuilderOrder.Append("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss", new CultureInfo("pt-BR")));
-            stringBuilderOrder.Append("Order status: " + Status);
-            stringBuilderOrder.Append("Client: " + Client);
+            stringBuilderOrder.AppendLine("ORDER SUMARY:");
+            stringBuilderOrder.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss", new CultureInfo("pt-BR")));
+            stringBuilderOrder.AppendLine("Order status: " + Status);
+            stringBuilderOrder.AppendLine("Client: " + Client);
+            stringBuilderOrder.AppendLine("Order items:");
+
+            foreach (OrderItem item in Items)
+            {
+                stringBuilderOrder.Append(item.Product.Name);
+                stringBuilderOrder.Append(", R$ ");
+                stringBuilderOrder.Append(item.Price.ToString("F2", CultureInfo.InvariantCulture));
+                stringBuilderOrder.Append(", Quantity: ");
+                stringBuilderOrder.Append(item.Quantity);
+                stringBuilderOrder.Append(", Subtotal: R$ ");
+                stringBuilderOrder.Append(item.Subtotal().ToString("F2", CultureInfo.InvariantCulture));
+                stringBuilderOrder.AppendLine();
+            }
+
+            stringBuilderOrder.Append("Total price: R$ ");
+            stringBuilderOrder.Append(TotalOrder().ToString("F2", CultureInfo.InvariantCulture));
             return stringBuilderOrder.ToString();
         }
     }

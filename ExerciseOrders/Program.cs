@@ -25,6 +25,9 @@ namespace ExerciseOrders
             Console.WriteLine("Enter order data:");
             Console.Write("Status (PendingPayment/Processing/Shipped/Delivered): ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
+
+            Order order = new Order(DateTime.Now, status, client);
+
             Console.WriteLine();
             Console.Write("How many items to this order? ");
             int numberItems = int.Parse(Console.ReadLine());
@@ -40,12 +43,13 @@ namespace ExerciseOrders
                 Console.Write("Quantity: ");
                 int quantityProduct = int.Parse(Console.ReadLine());
                 
-                Order order = new Order(DateTime.Now, status, client);
                 Product product = new Product(productName, productPrice);
                 OrderItem orderItem = new OrderItem(quantityProduct, productPrice, product);
                 order.AddItem(orderItem);
             }
+
+            Console.WriteLine();
+            Console.WriteLine(order);
         }
     }
-
 }

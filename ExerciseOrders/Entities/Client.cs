@@ -21,7 +21,7 @@ namespace ExerciseOrders.Entities
 
         override public string ToString()
         {
-            return Name + BirthDate.ToString("dd/MM/yyyy", new CultureInfo("pt-BR")) + " - " + Email;
+            return Name + " (" + BirthDate.ToString("dd/MM/yyyy", new CultureInfo("pt-BR")) + ") " + " - " + Email;
         }
     }
 }
