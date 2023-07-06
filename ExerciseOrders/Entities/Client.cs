@@ -1,3 +1,5 @@
+using System.Globalization;
+
 namespace ExerciseOrders.Entities
 {
     public class Client
@@ -15,6 +17,11 @@ namespace ExerciseOrders.Entities
             Name = name;
             Email = email;
             BirthDate = birthDate;
+        }
+
+        override public string ToString()
+        {
+            return Name + BirthDate.ToString("dd/MM/yyyy", new CultureInfo("pt-BR")) + " - " + Email;
         }
     }
 }

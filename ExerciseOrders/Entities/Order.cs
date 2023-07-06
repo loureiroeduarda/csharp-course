@@ -1,3 +1,5 @@
+using System.Globalization;
+using System.Text;
 using ExerciseOrders.Entities.Enums;
 
 namespace ExerciseOrders.Entities
@@ -38,6 +40,15 @@ namespace ExerciseOrders.Entities
                 totalOrder += totalOrder + item.Subtotal();
             }
             return totalOrder;
+        }
+
+        override public string ToString()
+        {
+            StringBuilder stringBuilderOrder = new StringBuilder();
+            stringBuilderOrder.Append("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss", new CultureInfo("pt-BR")));
+            stringBuilderOrder.Append("Order status: " + Status);
+            stringBuilderOrder.Append("Client: " + Client);
+            return stringBuilderOrder.ToString();
         }
     }
 }

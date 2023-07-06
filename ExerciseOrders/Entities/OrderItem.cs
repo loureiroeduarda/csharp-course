@@ -1,3 +1,6 @@
+using System.Globalization;
+using System.Text;
+
 namespace ExerciseOrders.Entities
 {
     public class OrderItem
@@ -19,6 +22,15 @@ namespace ExerciseOrders.Entities
         public double Subtotal()
         {
             return Price * Quantity;
+        }
+
+        override public string ToString()
+        {
+            StringBuilder stringBuilderOrderItem = new StringBuilder();
+            stringBuilderOrderItem.AppendLine("Order items:");
+            stringBuilderOrderItem.Append(Product.Name + ", R$ " + Price.ToString("F2", CultureInfo.InvariantCulture)
+            + ", Quantity: " + Quantity + ", Subtotal: R$ " + Subtotal().ToString("F2", CultureInfo.InvariantCulture));
+            return stringBuilderOrderItem.ToString();
         }
     }
 }
