@@ -37,7 +37,7 @@ namespace ExerciseOrders.Entities
             double totalOrder = 0;
             foreach (OrderItem item in Items)
             {
-                totalOrder += totalOrder + item.Subtotal();
+                totalOrder += item.Subtotal();
             }
             return totalOrder;
         }

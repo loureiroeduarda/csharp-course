@@ -22,6 +22,7 @@ namespace ExerciseOrders
 
             Client client = new Client(name, email, birthDate);
 
+            Console.WriteLine();
             Console.WriteLine("Enter order data:");
             Console.Write("Status (PendingPayment/Processing/Shipped/Delivered): ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
