@@ -15,9 +15,14 @@ namespace ExerciseInheritancePolymorphism.Entities
             CustomsFee = customsFee;
         }
 
+        public double TotalPrice()
+        {
+            return Price + CustomsFee;
+        }
+
         public override string PriceTag()
         {
-            return base.PriceTag() + "(Customs fee: R$ " + Price.ToString("F2", CultureInfo.InvariantCulture);
+            return base.PriceTag() + "(Customs fee: R$ " + CustomsFee.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
