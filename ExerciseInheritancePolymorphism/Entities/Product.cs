@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace ExerciseInheritancePolymorphism
+namespace ExerciseInheritancePolymorphism.Entities
 {
     public class Product
     {
@@ -17,7 +17,7 @@ namespace ExerciseInheritancePolymorphism
             Price = price;
         }
 
-        public string PriceTag()
+        public virtual string PriceTag()
         {
             return Name + " R$ " + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
