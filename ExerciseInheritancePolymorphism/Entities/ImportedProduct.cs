@@ -22,7 +22,7 @@ namespace ExerciseInheritancePolymorphism.Entities
 
         public override string PriceTag()
         {
-            return base.PriceTag() + "(Customs fee: R$ " + CustomsFee.ToString("F2", CultureInfo.InvariantCulture);
+            return base.PriceTag() + " (Customs fee: R$ " + CustomsFee.ToString("F2", CultureInfo.InvariantCulture) + ")";
         }
     }
 }

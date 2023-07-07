@@ -17,7 +17,7 @@ namespace ExerciseInheritancePolymorphism.Entities
 
         public override string PriceTag()
         {
-            return base.PriceTag() + "(Manufacture date: " + ManufactureDate.ToString("dd/MM/yyyy", new CultureInfo("pt-BR"));
+            return base.PriceTag() + " (Manufacture date: " + ManufactureDate.ToString("dd/MM/yyyy", new CultureInfo("pt-BR")) + ")";
         }
     }
 }

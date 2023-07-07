@@ -1,0 +1,15 @@
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\bin\Debug\net6.0\ExerciseInheritancePolymorphism.exe
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\bin\Debug\net6.0\ExerciseInheritancePolymorphism.deps.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\bin\Debug\net6.0\ExerciseInheritancePolymorphism.runtimeconfig.json
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\bin\Debug\net6.0\ExerciseInheritancePolymorphism.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\bin\Debug\net6.0\ExerciseInheritancePolymorphism.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.csproj.AssemblyReference.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.AssemblyInfoInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.AssemblyInfo.cs
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\refint\ExerciseInheritancePolymorphism.dll
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.pdb
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ExerciseInheritancePolymorphism.genruntimeconfig.cache
+C:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\obj\Debug\net6.0\ref\ExerciseInheritancePolymorphism.dll
