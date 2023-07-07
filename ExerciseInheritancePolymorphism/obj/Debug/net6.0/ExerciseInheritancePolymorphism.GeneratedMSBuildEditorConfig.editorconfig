@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ExerciseOrders
-build_property.ProjectDir = c:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseOrders\
+build_property.RootNamespace = ExerciseInheritancePolymorphism
+build_property.ProjectDir = c:\Users\eduarda.loureiro\Documents\C# - Programação Orientada a Objetos\Github\csharp-course\ExerciseInheritancePolymorphism\
