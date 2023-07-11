@@ -51,10 +51,15 @@ namespace ExerciseTax
             Console.WriteLine();
             Console.WriteLine("TAXES PAID:");
 
+            double sum = 0.0;
             foreach (TaxPayer taxPayer in taxPayers)
             {
                 Console.WriteLine(taxPayer);
+                sum += taxPayer.Tax();
             }
+
+            Console.WriteLine();
+            Console.Write("TOTAL TAXES: R$ " + sum.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
