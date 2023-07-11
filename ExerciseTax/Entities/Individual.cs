@@ -11,27 +11,13 @@ namespace ExerciseTax.Entities
 
         public override double Tax()
         {
-            if (AnualIncome < 20000.00)
+            if (AnualIncome < 20000.0)
             {
-                if (HealthExpenditures > 0)
-                {
-                    return (AnualIncome * 0.15) - (HealthExpenditures * 0.5);
-                }
-                else
-                {
-                    return AnualIncome * 0.15;
-                }
+                return (AnualIncome * 0.15) - (HealthExpenditures * 0.5);
             }
             else
             {
-                if (HealthExpenditures > 0)
-                {
-                    return (AnualIncome * 0.25) - (HealthExpenditures * 0.5);
-                }
-                else
-                {
-                    return AnualIncome * 0.25;
-                }
+                return (AnualIncome * 0.25) - (HealthExpenditures * 0.5);
             }
         }
     }
