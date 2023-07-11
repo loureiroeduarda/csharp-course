@@ -1,3 +1,5 @@
+using System.Globalization;
+
 namespace ExerciseTax.Entities
 {
     public abstract class TaxPayer
@@ -12,5 +14,10 @@ namespace ExerciseTax.Entities
         }
 
         public abstract double Tax();
+
+        override public string ToString()
+        {
+            return Name + ": R$ " + Tax().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

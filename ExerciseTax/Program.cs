@@ -1,4 +1,7 @@
-﻿namespace ExerciseTax
+﻿using System.Globalization;
+using ExerciseTax.Entities;
+
+namespace ExerciseTax
 {
     class Program
     {
@@ -15,7 +18,43 @@
             Exemplo: uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica: 
             400000 * 14% = 56000.00*/
 
-            
+            List<TaxPayer> taxPayers = new List<TaxPayer>();
+
+            Console.Write("Enter the number of tax payers: ");
+            int numberTaxPayers = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < numberTaxPayers; i++)
+            {
+                Console.WriteLine();
+                Console.WriteLine($"Tax payer #{i + 1} data:");
+                Console.Write("Individual or company (i/c)? ");
+                char chosenPayerType = char.Parse(Console.ReadLine());
+                Console.Write("Name: ");
+                string name = Console.ReadLine();
+                Console.Write("Anual income: ");
+                double anualIncome = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                if (chosenPayerType == 'i')
+                {
+                    Console.Write("Health expenditures: ");
+                    double healthExpenditures = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    taxPayers.Add(new Individual(name, anualIncome, healthExpenditures));
+                }
+                else
+                {
+                    Console.Write("Number of employees: ");
+                    int numberOfEmployees = int.Parse(Console.ReadLine());
+                    taxPayers.Add(new Company(name, anualIncome, numberOfEmployees));
+                }
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("TAXES PAID:");
+
+            foreach (TaxPayer taxPayer in taxPayers)
+            {
+                Console.WriteLine(taxPayer);
+            }
         }
     }
 }
