@@ -13,11 +13,25 @@ namespace ExerciseTax.Entities
         {
             if (AnualIncome < 20000.00)
             {
-                return AnualIncome * 0.15;
+                if (HealthExpenditures > 0)
+                {
+                    return (AnualIncome * 0.15) - (HealthExpenditures * 0.5);
+                }
+                else
+                {
+                    return AnualIncome * 0.15;
+                }
             }
             else
             {
-                return AnualIncome * 0.25;
+                if (HealthExpenditures > 0)
+                {
+                    return (AnualIncome * 0.25) - (HealthExpenditures * 0.5);
+                }
+                else
+                {
+                    return AnualIncome * 0.25;
+                }
             }
         }
     }
