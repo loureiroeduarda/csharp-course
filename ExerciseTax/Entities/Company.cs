@@ -11,6 +11,10 @@ namespace ExerciseTax.Entities
 
         public override double Tax()
         {
+            if (NumberOfEmployees > 10)
+            {
+                return AnualIncome * 0.14;
+            }
             return AnualIncome * 0.16;
         }
     }
