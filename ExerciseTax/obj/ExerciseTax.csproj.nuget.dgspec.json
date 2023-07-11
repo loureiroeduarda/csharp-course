@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseStructureFor\\ExerciseStructureFor.csproj": {}
+    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseTax\\ExerciseTax.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseStructureFor\\ExerciseStructureFor.csproj": {
+    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseTax\\ExerciseTax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseStructureFor\\ExerciseStructureFor.csproj",
-        "projectName": "ExerciseStructureFor",
-        "projectPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseStructureFor\\ExerciseStructureFor.csproj",
+        "projectUniqueName": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseTax\\ExerciseTax.csproj",
+        "projectName": "ExerciseTax",
+        "projectPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseTax\\ExerciseTax.csproj",
         "packagesPath": "C:\\Users\\eduarda.loureiro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseStructureFor\\obj\\",
+        "outputPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseTax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduarda.loureiro\\AppData\\Roaming\\NuGet\\NuGet.Config"

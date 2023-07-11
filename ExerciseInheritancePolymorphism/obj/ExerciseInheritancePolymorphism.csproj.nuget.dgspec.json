@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj": {}
+    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj": {
+    "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj",
+        "projectUniqueName": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj",
         "projectName": "ExerciseInheritancePolymorphism",
-        "projectPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj",
+        "projectPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\ExerciseInheritancePolymorphism.csproj",
         "packagesPath": "C:\\Users\\eduarda.loureiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\obj\\",
+        "outputPath": "c:\\Users\\eduarda.loureiro\\Documents\\C# - Programação Orientada a Objetos\\Github\\csharp-course\\ExerciseInheritancePolymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduarda.loureiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
